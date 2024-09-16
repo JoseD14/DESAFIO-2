@@ -9,11 +9,9 @@
 
 ---
 
-## **Dirección al Video:**
-[Ver video de demostración](https://link-al-video.com)
 
 ## **Dirección al Proyecto:**
-[Ver repositorio del proyecto](https://github.com/usuario/repositorio)
+[Ver proyecto](https://snack.expo.dev/@doradea14/desafiopractico2?platform=ios)
 
 ---
 
