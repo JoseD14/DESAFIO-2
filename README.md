@@ -1,2 +1,5 @@
 # DESAFIO-2
 Segundo Desafío Práctico
+Integrantes del Equipo: 
+--JOSÉ ROBERTO DORADEA HERRERA DH211056
+--MARCELO YASER ANDRADE GARZA		AG210653
